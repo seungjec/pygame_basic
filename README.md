@@ -1,2 +1,4 @@
 # pygame_basic
-test a pygame code
+learn to pygame code of clear-code-projects/PyDew-Valley
+
+https://github.com/clear-code-projects/PyDew-Valley
