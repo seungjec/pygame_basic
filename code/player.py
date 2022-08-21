@@ -46,7 +46,6 @@ class Player(pygame.sprite.Sprite):
         self.pos.y += self.direction.y * self.speed * dt
         self.rect.centery = self.pos.y
 
-
     def update(self, dt):
         self.input()
         self.move(dt)
